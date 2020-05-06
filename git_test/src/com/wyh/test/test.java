@@ -1,4 +1,4 @@
-package com.wyh;
+package com.wyh.test;
 
 public class test {
     public static void main(String[] args) {
